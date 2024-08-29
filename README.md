@@ -2,7 +2,7 @@
 
 ## Objective
 
-This training project aims to predict the monthly revenue of restaurants using linear regression. The project is designed for educational purposes, providing insights into building and evaluating a predictive model based on historical business data.
+This project aims to predict the monthly revenue of restaurants using various regression techniques. The project is designed to provide insights into building, tuning, and evaluating predictive models based on historical data, with a focus on understanding the effectiveness of different regression approaches.
 
 ## Data
 
