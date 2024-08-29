@@ -26,4 +26,4 @@ In this project, we work with a dataset that includes various features related t
   - **Polynomial Regression**: Explored higher-order relationships by considering polynomial features.
   - **Ridge Regression**: Applied L2 regularization to handle potential multicollinearity.
   - **Lasso Regression**: Applied L1 regularization for feature selection and to prevent overfitting.
-- **Model Evaluation**: Assessed the performance of each model using Mean Squared Error (MSE) on the training, cross-validation, and testing sets. Conducted residual analysis to evaluate the model's assumptions. Linear Regression performed best on the test set with the lowest MSE, while Ridge and Lasso did not offer significant improvements.
+- **Model Evaluation**: Assessed the performance of each model using Mean Squared Error (MSE) on the training, cross-validation, and testing sets. Conducted residual analysis to evaluate the model's assumptions.
